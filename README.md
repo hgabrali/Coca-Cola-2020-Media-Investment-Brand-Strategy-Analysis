@@ -1,3 +1,7 @@
+<img width="525" height="171" alt="image" src="https://github.com/user-attachments/assets/854014d5-8e15-4eae-99c8-0b58f15a0b93" />
+
+
+
 # Strategic Media Spending & Brand Resilience Analysis (2020)
 ### A Data Science Approach to Marketing Mix Modeling & Crisis Management
 
@@ -20,7 +24,7 @@ In the realm of **Brand Communication**, 2020 represented a "Black Swan" event. 
 * **Crisis Resilience:** Did the brand adopt a "Recessionary Marketing" strategy (cutting spend) or a "Share of Voice" maintenance strategy?
 * **Temporal Seasonality:** How did specific time slots (Dayparts) and weekly trends influence the cost-effectiveness of campaigns?
 
-## 📂 Project Structure
+## 3. Project Structure
 
 The repository is organized to separate raw data, processing logic, and documentation, ensuring reproducibility and clean workflow management.
 
@@ -40,6 +44,7 @@ coca-cola-analysis/
 ├── .gitignore          <-- CRITICAL: Configuration to exclude data files from version control
 ├── README.md           <-- Project executive summary, methodology, and documentation
 └── requirements.txt    <-- List of Python dependencies (pandas, seaborn, prophet, etc.)
+```
 
 ## 4. Methodology & Technical Approach
 
