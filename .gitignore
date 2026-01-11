@@ -1,0 +1,12 @@
+# Veri klasörünü tamamen gizle (EN ÖNEMLİSİ BU)
+data/
+
+# Jupyter Notebook geçici dosyalarını gizle
+.ipynb_checkpoints/
+
+# Gereksiz sistem dosyalarını gizle
+.DS_Store
+Thumbs.db
+
+# Excel geçici dosyalarını gizle
+~$*.xlsx
