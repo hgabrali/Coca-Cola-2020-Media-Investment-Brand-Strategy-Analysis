@@ -52,7 +52,7 @@ The analysis of the dataset yields four critical conclusions regarding the 2020 
 * **Interpretation:** The orange dashed line illustrates the trajectory of Q1 2021 spending if current trends persist. Due to high spending at the end of the year (Q4), the model predicts an **upward opening** for the beginning of 2021.
 
 
-# 🔮 Future Outlook: Moving Beyond Univariate Forecasting
+# 3. Future Outlook: Moving Beyond Univariate Forecasting
 ## A Roadmap for "Next-Generation" Predictive Media Modeling
 
 While the current *Prophet* and *Linear Regression* models provide a solid baseline based on historical run-rates, a truly robust Strategic Forecast requires integrating **Multivariate Regressors**. To elevate the prediction accuracy from "Descriptive" to "Prescriptive," the following dimensions should be integrated into the next phase of the project:
@@ -81,6 +81,50 @@ To transition from *Descriptive Analytics* to *Prescriptive Strategic Forecastin
 | **2. Consumer Behavior** | `Sales_Volume_Weekly.csv` OR `Google_Trends_Index.csv` | To serve as the **Dependent Variable (Y)**. Essential for measuring ROI and channel synergy. | **Synergy Attribution** & **MMM (Marketing Mix Modeling)** |
 | **3. Competitive Intel** | `Category_Total_GRP.csv` | To calculate the dynamic **Share of Voice (SOV)** and detect competitor aggression levels. | **Game Theory Modeling** (Competitor Response) |
 | **4. Inventory Supply** | `TV_Rate_Cards_2020.csv` | To establish a baseline price and identify **"Demand-Pull Inflation"** (Scarcity Pricing). | **Inventory Futures** (Price Forecasting) |
+
+
+# 💸 5. Econometric Integration & Strategic Forecasting
+## Inflation-Proofing the Media Budget
+
+![Python](https://img.shields.io/badge/Python-Scikit_Learn-yellow)
+![Model](https://img.shields.io/badge/Model-Linear_Regression-blue)
+
+To mitigate the risk of **Hyper-Inflation** in the Turkish market, this module integrates external macro-economic indicators (USD/TRY Exchange Rate) to distinguish between "Nominal Spending" and "Real Purchasing Power."
+
+### 📉 Visualization: The "Hidden Inflation" Effect
+
+
+<img width="963" height="453" alt="image" src="https://github.com/user-attachments/assets/d0e86998-d944-4327-aa6e-c04616580ac3" />
+
+<img width="765" height="446" alt="image" src="https://github.com/user-attachments/assets/3126e14a-792d-4407-b0ed-a16be61d0acd" />
+
+<img width="1047" height="431" alt="image" src="https://github.com/user-attachments/assets/8f1bcb5d-f35e-4051-a544-91b1aa79d7a4" />
+
+
+<img width="973" height="427" alt="image" src="https://github.com/user-attachments/assets/5d02cc3d-c46e-4dbb-9c39-c918ca6caa58" />
+
+<img width="1019" height="424" alt="image" src="https://github.com/user-attachments/assets/9315a4d7-2445-467f-9726-daf1fc0fa72c" />
+
+
+<img width="993" height="445" alt="image" src="https://github.com/user-attachments/assets/ca2f34ba-9b9f-49a4-b874-2c6ba8044dc4" />
+
+
+### 🔍 Technical Interpretation & Forecast
+
+* **The Erosion Effect:** The analysis reveals a significant divergence between Nominal Spend (TL) and Real Spend (USD). Throughout 2020, while the TL budget remained volatile, the **Real Purchasing Power (Green Line)** exhibited a consistent downward trend due to currency devaluation ($5.95 \rightarrow 7.50$ TL).
+* **Strategic Forecast (Q1 2021):**
+    * **Algorithm:** A Linear Regression model was trained on the 2020 weekly average exchange rates.
+    * **Prediction:** The model forecasts the USD/TRY rate to average **~7.71 TL** in Q1 2021.
+* **Actionable Insight:**
+    * **Budgeting:** The 2021 media budget must be indexed to this forecasted rate. A flat budget in TL terms would result in a **~15-20% loss in Share of Voice (SOV)** due to media inflation.
+    * **Procurement:** Recommended to lock in **"Fixed Rate"** upfront deals with TV networks before Q1 to hedge against the predicted volatility.
+
+---
+*Note: Due to environment restrictions, this analysis utilized a synthetic reproduction of the 2020 exchange rate trend based on historical open/close data points.*
+
+
+
+
 
 
 # 📱 Digital Attribution & Second Screen Effect Analysis
