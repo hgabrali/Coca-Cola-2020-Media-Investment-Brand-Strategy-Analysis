@@ -1,15 +1,27 @@
 <img width="525" height="171" alt="image" src="https://github.com/user-attachments/assets/854014d5-8e15-4eae-99c8-0b58f15a0b93">
 
 
+# Strategic Executive Summary (Key Insights)
 
-#  1. Strategic Executive Summary (Key Insights)
+The integrated analysis of the 2020 media landscape, combined with high-frequency econometric forecasting, yields the following critical conclusions:
 
-The analysis of the dataset yields four critical conclusions regarding the 2020 media landscape:
+* **Dominance of TV (Overwhelming Precedence):**
+    Out of a total budget of **162.37 Million TL**, **91.8%** was allocated to Television. This indicates that brands selected TV as a "Safe Haven" liquidity pool during the period of macroeconomic uncertainty, prioritizing broad reach over experimental channels.
 
-* **Dominance of TV (Overwhelming Precedence):** Out of a total budget of **162.37 Million TL**, **91.8%** was allocated to Television. This indicates that brands selected TV as a "Safe Haven" during the period of uncertainty.
-* **Efficiency Champion:** Interestingly, despite commanding the highest expenditure, TV offered the **lowest Cost Per Point (CPP)**. While the absolute cost appears high, it remains the most cost-effective medium relative to the audience reach it delivers.
-* **Crisis Reflex (V-Shaped Recovery):** A sharp decline in spending is observed during the "Lockdown" period between March and May. However, budgets returned to normal levels in June, driven by a **"Revenge Spending"** strategy.
-* **Market Leader:** In terms of total visibility (**Share of Voice**), **COCA-COLA** leads the market with **25.5%**. It has established a clear dominance in share of voice against its competitors.
+* **Efficiency Champion (Scale Economics):**
+    Interestingly, despite commanding the highest nominal expenditure, TV offered the **lowest Cost Per Point (CPP)**. While the absolute CapEx appears high, it remains the most cost-effective medium relative to audience reach (lowest marginal cost per impression), insulating it slightly from the volatility seen in digital auction marketplaces.
+
+* **Crisis Reflex (V-Shaped Recovery):**
+    A sharp contraction in spending is observed during the "Lockdown" period (March–May). However, budgets exhibited a "V-Shaped" recovery by June, driven by a **"Revenge Spending"** strategy. This rapid re-entry, however, coincided with early signs of currency-driven inflation, forcing brands to spend more to regain pre-pandemic visibility levels.
+
+* **Market Leader (Share of Voice):**
+    In terms of total visibility (**Share of Voice**), **COCA-COLA** leads the market with **25.5%**. The econometric data suggests this dominance is partly due to a "Dollar-Pegged" budgeting strategy, allowing them to maintain consistent USD-equivalent pressure while local competitors suffered from purchasing power erosion.
+
+* **The "Hidden Inflation" Phenomenon (New Insight):**
+    A structural decoupling occurred in Q4, creating a **"Divergence Delta"** between Nominal Spend (TL) and Real Purchasing Power (USD). While nominal budgets returned to peak levels (~5.2M TL), the effective media weight lagged by **~15-20%**. This confirms that Q4 growth was largely inflationary, not accretive in terms of inventory volume.
+
+* **FX Volatility & Arbitrage (New Insight):**
+    The correlation between media spending and the USD/TRY rate ($r > 0.90$) indicates that the market is highly elastic to exchange rate variance. With a projected **31.8% media inflation** for Q1 2021 solely due to FX drift, the market is shifting from "Creative Competition" to "Financial Arbitrage," where hedged multinational players possess a distinct liquidity advantage over local competitors.
 
 ---
 
