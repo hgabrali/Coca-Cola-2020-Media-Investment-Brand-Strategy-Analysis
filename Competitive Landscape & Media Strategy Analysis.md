@@ -10,6 +10,7 @@
 
 ---
 
+
 ### 1. Executive Summary: Market Consolidation & Dominance
 
 The 2020 fiscal year analysis reveals a highly consolidated market structure where the **"Category Captain"** (Market Leader) dictates the pacing of media investment. The competitive landscape is characterized by a **"Fortress Defense"** strategy by the leader, utilizing massive budget volume to drown out competitor noise, while challenger brands adopt niche **"Flanker Strategies"** to capture specific audience segments.
@@ -21,12 +22,16 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 #### 📊 A. Share of Spend (SOS) Analysis
 > **Objective:** To determine the financial hierarchy and **"Share of Wallet"** within the category.
 
+<img width="1207" height="558" alt="image" src="https://github.com/user-attachments/assets/e415ea8f-6b31-43db-90e5-9c3d8c86e0b7" />
+
 * **The "Goliath" Effect:** Coca-Cola commands an overwhelming **Share of Spend (SOS)** compared to the aggregate of its competitors. This level of spending indicates a strategy focused on **Mental Availability** (keeping the brand top-of-mind) rather than just tactical sales activation.
 * **The Challenger Gap:** Brands like Pepsi and Fanta occupy the **"Challenger"** tier. Their spending is significant but strategically capped, likely focusing on **Flighting Strategies** (intermittent bursts of advertising) rather than the **"Always-On"** presence maintained by the leader.
 * **Local vs. Global:** Local competitors (e.g., Torku, Didi, Uludağ) operate with significantly leaner budgets, necessitating a **High-Efficiency Strategy** where every Turkish Lira (TL) must yield maximum reach.
 
 #### 🎨 B. Media Mix & Channel Allocation Strategy
 > **Objective:** To decode the tactical "Where" and "How" of competitor investments.
+
+<img width="894" height="491" alt="image" src="https://github.com/user-attachments/assets/bb92a163-bb10-40fb-a8c6-63c19d294ac2" 
 
 * **Linear TV Dependency:** The 100% Stacked Bar visualization confirms that the Turkish beverage market is historically **TV-Centric**. Across almost all top 10 brands, Television accounts for the lion's share (>85%) of the budget. This validates the industry heuristic that TV is the primary driver for **Mass Reach** in FMCG (Fast-Moving Consumer Goods).
 * **Divergent Strategies:**
@@ -35,6 +40,9 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 
 #### 📈 C. Efficiency Analysis: Share of Spend (SOS) vs. Share of Voice (SOV)
 > **Objective:** To measure **"Buying Efficiency"** and **Return on Investment (ROI)** potential.
+
+
+<img width="1239" height="589" alt="image" src="https://github.com/user-attachments/assets/8a98c73e-f400-44f1-aa00-857d78f97a6d" />
 
 * **The Efficiency Gap:** This dual-axis chart is the most critical strategic tool.
 * **High Efficiency (The "Smart Buyer"):** If a brand's Red Line (**GRP - Gross Rating Points**) is significantly higher relative to its Gray Bar (**Cost**), that brand has achieved a low **Cost Per Point (CPP)**. This suggests superior media buying negotiations or a smarter selection of **Dayparts** (e.g., utilizing **Day Time** vs. **Prime Time**).
