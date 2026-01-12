@@ -50,3 +50,20 @@ The analysis of the dataset yields four critical conclusions regarding the 2020 
 
 * **Visualization:** Refer to the trend line chart titled *Strategic Forecast*.
 * **Interpretation:** The orange dashed line illustrates the trajectory of Q1 2021 spending if current trends persist. Due to high spending at the end of the year (Q4), the model predicts an **upward opening** for the beginning of 2021.
+
+
+# COMPETITOR ANALYSIS: SHARE OF SPEND & MEDIA STRATEGY
+
+## Objective: Analyze Coca-Cola vs. Competitors in the Turkish Market.
+
+### Competitive Landscape: 
+
+<img width="1207" height="558" alt="image" src="https://github.com/user-attachments/assets/e415ea8f-6b31-43db-90e5-9c3d8c86e0b7" />
+
+### Strategic Divergence: 
+
+<img width="894" height="491" alt="image" src="https://github.com/user-attachments/assets/bb92a163-bb10-40fb-a8c6-63c19d294ac2" />
+
+### Efficiency Analysis: 
+<img width="1239" height="589" alt="image" src="https://github.com/user-attachments/assets/8a98c73e-f400-44f1-aa00-857d78f97a6d" />
+
