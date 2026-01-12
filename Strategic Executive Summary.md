@@ -164,7 +164,7 @@ The most critical technical insight from this chart is the **Elasticity of Spend
 
 ---
 
-## 5. Strategic Forecast & Recommendations
+## 4. Strategic Forecast & Recommendations
 
 Based on the linear regression suggested by the Q4 trend, the following projections are modeled:
 
