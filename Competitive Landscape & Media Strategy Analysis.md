@@ -94,5 +94,28 @@ Going beyond basic metrics, this section uncovers the tactical nuances of the me
 
 
 
+
+
+
+# Diminishing returns:
+
+<img width="982" height="544" alt="image" src="https://github.com/user-attachments/assets/2e1a06f6-8d96-4072-b4ae-9d685e8cbaa3" />
+
+# Adsrock analysis:
+
+<img width="1175" height="547" alt="image" src="https://github.com/user-attachments/assets/86bffb69-ed2a-4e11-9c79-c9067ba6f775" />
+
+
+# Channel Portfolio Matrix: Efficiency (CPP) vs. Volume (GRP)'
+
+<img width="890" height="564" alt="image" src="https://github.com/user-attachments/assets/1ade1147-6ae8-4de7-8737-c0b4b4de2eb3" />
+
+
+
+# Media inflation:
+
+<img width="1206" height="464" alt="image" src="https://github.com/user-attachments/assets/d19e4560-e902-4b8d-96b2-00ec490945e4" />
+
+
 *Analysis generated via Python (Pandas/Matplotlib) based on 2020 Mainstream Media Logs.*
 *Methodology: Buying Efficiency calculated using Actual Cost vs. Realized GRP.*
