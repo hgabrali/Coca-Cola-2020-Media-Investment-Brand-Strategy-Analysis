@@ -83,9 +83,10 @@ The dataset utilized in this project is **proprietary** and was provided under a
 
 ---
 
-## Data Obfuscation & Scaling (Veri Maskeleme ve Ölçeklendirme)
+### Data Obfuscation & Scaling (Data Masking & Normalization)
 
-> **To protect the proprietary information (mülkiyet hakları saklı bilgiler) of the data provider (veri sağlayıcı), all financial figures (finansal rakamlar) and volume metrics (hacim metrikleri) have been scaled (ölçeklendirilmiş) or obfuscated (maskelenmiş/gizlenmiş). While the statistical relationships (istatistiksel ilişkiler) and trends (eğilimler) remain intact (bozulmadan korunmuş) for analysis purposes (analiz amaçları), the absolute values (mutlak değerler) do not represent actual business results (gerçek iş sonuçları).**
+> **Notice regarding data integrity and privacy protocols:**
+> To protect the **proprietary information** (confidential assets) of the **data provider** (originating entity), all **financial figures** (monetary metrics) and **volume metrics** (quantitative measurements) have been **scaled** (normalized) or **obfuscated** (anonymized). While the **statistical relationships** (correlations) and **trends** (longitudinal patterns) remain **intact** (preserved) for **analysis purposes** (diagnostic evaluation), the **absolute values** (raw magnitudes) do not represent actual **business results** (commercial outcomes).
 
 ---
 
