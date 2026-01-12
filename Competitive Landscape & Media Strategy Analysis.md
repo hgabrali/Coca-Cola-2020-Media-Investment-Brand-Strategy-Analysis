@@ -59,5 +59,40 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 
 ---
 
+# 🔬 4. Advanced Strategic Deep Dive (New Dimensions)
+
+Going beyond basic metrics, this section uncovers the tactical nuances of the media strategy using four advanced dimensions.
+
+### A. Creative Execution Strategy (Format Analysis)
+
+<img width="1176" height="549" alt="image" src="https://github.com/user-attachments/assets/6442dabd-95b4-4b35-9bb5-2d18c8388d4a" />
+
+
+* **Visualization:** *Budget Allocation by Ad Format*
+* **Insight:** While **Standard Spots** consume the majority of the budget, significant investments in **Sponsorships** and **Overlays (Bant Reklam)** indicate a strategy to bypass ad clutter. These premium formats suggest a focus on **Brand Integration** rather than just interruption.
+
+### B. Vendor Concentration (Pareto Analysis)
+
+<img width="1192" height="557" alt="image" src="https://github.com/user-attachments/assets/6021bf00-c06f-4b94-9f47-aa8831927a46" />
+
+* **Visualization:** *Top 10 Media Partners*
+* **Insight:** The spending is highly concentrated within top-tier TV channels (e.g., FOX, TV8, ATV). This consolidation implies strong **Upfront Agreements** and volume-based deal structures, giving the brand significant bargaining power over vendors.
+
+### C. Duration Strategy (Storytelling vs. Tactical)
+
+<img width="1168" height="540" alt="image" src="https://github.com/user-attachments/assets/460011c4-7ea3-4d43-8f65-aa5ba35afe31" />
+
+* **Visualization:** *Distribution of Spending by Duration*
+* **Insight:** The histogram reveals a bimodal distribution. A peak at **45-60 seconds** indicates "Brand Building" / Storytelling campaigns, while peaks at **10-15 seconds** reflect "Frequency Builder" / Tactical reminder spots aimed at driving mental availability efficiently.
+
+### D. Category Dynamics (Subsector Seasonality)
+
+<img width="1407" height="652" alt="image" src="https://github.com/user-attachments/assets/fe23233a-fa6d-4c93-bf3e-2dbcf44e4066" />
+
+* **Visualization:** *Monthly Spending Trends by Subsector*
+* **Insight:** **Carbonated Soft Drinks (CSD)** and **Ice Tea** show a clear correlation with temperature (Summer Peak), whereas **Water** maintains a more baseline presence. This divergence necessitates category-specific "Flighting Models" (Media Scheduling) rather than a one-size-fits-all approach.
+
+
+
 *Analysis generated via Python (Pandas/Matplotlib) based on 2020 Mainstream Media Logs.*
 *Methodology: Buying Efficiency calculated using Actual Cost vs. Realized GRP.*
