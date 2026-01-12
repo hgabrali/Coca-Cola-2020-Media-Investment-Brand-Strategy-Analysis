@@ -1,4 +1,6 @@
-# 🏆 Competitive Landscape & Media Strategy Analysis (2020)
+<img width="525" height="171" alt="image" src="https://github.com/user-attachments/assets/854014d5-8e15-4eae-99c8-0b58f15a0b93">
+
+#  Competitive Landscape & Media Strategy Analysis (2020)
 
 
 ## A Deep Dive into the Turkish Non-Alcoholic Ready-to-Drink (NARTD) Market
@@ -19,7 +21,7 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 
 ### 2. Strategic Insights by Visualization
 
-#### 📊 A. Share of Spend (SOS) Analysis
+####  A. Share of Spend (SOS) Analysis
 > **Objective:** To determine the financial hierarchy and **"Share of Wallet"** within the category.
 
 <img width="1207" height="558" alt="image" src="https://github.com/user-attachments/assets/e415ea8f-6b31-43db-90e5-9c3d8c86e0b7" />
@@ -28,7 +30,7 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 * **The Challenger Gap:** Brands like Pepsi and Fanta occupy the **"Challenger"** tier. Their spending is significant but strategically capped, likely focusing on **Flighting Strategies** (intermittent bursts of advertising) rather than the **"Always-On"** presence maintained by the leader.
 * **Local vs. Global:** Local competitors (e.g., Torku, Didi, Uludağ) operate with significantly leaner budgets, necessitating a **High-Efficiency Strategy** where every Turkish Lira (TL) must yield maximum reach.
 
-#### 🎨 B. Media Mix & Channel Allocation Strategy
+####  B. Media Mix & Channel Allocation Strategy
 > **Objective:** To decode the tactical "Where" and "How" of competitor investments.
 
 <img width="894" height="491" alt="image" src="https://github.com/user-attachments/assets/bb92a163-bb10-40fb-a8c6-63c19d294ac2"/> 
@@ -38,7 +40,7 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
     * **The Leader's Mix:** Coca-Cola can afford a diversified mix (TV + Outdoor + Cinema), utilizing **360-Degree Communication** to surround the consumer.
     * **The Niche Mix:** Smaller competitors (e.g., Red Bull or Local Teas) show a distinct deviation. They may over-index in specific channels or specific TV genres (e.g., **Sponsorships** vs. **Standard Spots**) to bypass the high cost of **Prime Time** clutter.
 
-#### 📈 C. Efficiency Analysis: Share of Spend (SOS) vs. Share of Voice (SOV)
+####  C. Efficiency Analysis: Share of Spend (SOS) vs. Share of Voice (SOV)
 > **Objective:** To measure **"Buying Efficiency"** and **Return on Investment (ROI)** potential.
 
 
@@ -59,7 +61,7 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 
 ---
 
-# 🔬 4. Advanced Strategic Deep Dive (New Dimensions)
+#  4. Advanced Strategic Deep Dive (New Dimensions)
 
 Going beyond basic metrics, this section uncovers the tactical nuances of the media strategy using four advanced dimensions.
 
@@ -94,7 +96,7 @@ Going beyond basic metrics, this section uncovers the tactical nuances of the me
 
 
 
-# 🚀 Strategic Deep-Dive: Advanced Media Analytics
+#  Strategic Deep-Dive: Advanced Media Analytics
 
 ## From Descriptive Data to Prescriptive Intelligence
 
@@ -102,7 +104,7 @@ This section details the advanced mathematical models applied to the 2020 media 
 
 ---
 
-### 📉 1. Diminishing Returns Analysis (Saturation Modeling)
+###  1. Diminishing Returns Analysis (Saturation Modeling)
 > **Objective:** To identify the "Optimal Weekly Budget Cap" where marginal ROAS (Return on Ad Spend) begins to decline.
 
 <img width="982" height="544" alt="image" src="https://github.com/user-attachments/assets/2e1a06f6-8d96-4072-b4ae-9d685e8cbaa3" />
@@ -114,7 +116,7 @@ This section details the advanced mathematical models applied to the 2020 media 
 
 ---
 
-### 🧠 2. Adstock Modeling (Brand Memory Decay)
+###  2. Adstock Modeling (Brand Memory Decay)
 > **Objective:** To measure the **"Carryover Effect"**—how long an ad continues to influence a consumer after it airs.
 
 <img width="1175" height="547" alt="image" src="https://github.com/user-attachments/assets/86bffb69-ed2a-4e11-9c79-c9067ba6f775" />
@@ -126,7 +128,7 @@ This section details the advanced mathematical models applied to the 2020 media 
 
 ---
 
-### 💼 3. Channel Portfolio Matrix (BCG Efficiency Analysis)
+###  3. Channel Portfolio Matrix (BCG Efficiency Analysis)
 > **Objective:** To classify media vendors based on **Cost Efficiency (CPP)** vs. **Volume Scalability (GRP)**.
 
 <img width="890" height="564" alt="image" src="https://github.com/user-attachments/assets/1ade1147-6ae8-4de7-8737-c0b4b4de2eb3" />
@@ -141,7 +143,7 @@ This section details the advanced mathematical models applied to the 2020 media 
 
 ---
 
-### 💸 4. Media Inflation Tracker (Cost Dynamics)
+###  4. Media Inflation Tracker (Cost Dynamics)
 > **Objective:** To track the temporal evolution of inventory pricing (Cost Per Second).
 
 <img width="1206" height="464" alt="image" src="https://github.com/user-attachments/assets/d19e4560-e902-4b8d-96b2-00ec490945e4" />
@@ -154,7 +156,7 @@ This section details the advanced mathematical models applied to the 2020 media 
 
 
 
-# 🔬 Advanced Strategic Deep Dive: Beyond the Basics
+#  Advanced Strategic Deep Dive: Beyond the Basics
 ## Tactical Deployment & Media Buying Architectures (2020)
 
 
@@ -165,13 +167,13 @@ While the primary analysis focused on volume and efficiency, this "Deep Dive" mo
 
 ### 2. Analytical Dimensions & Findings
 
-#### 🎨 A. Creative Execution Strategy (Ad Format Analysis)
+####  A. Creative Execution Strategy (Ad Format Analysis)
 > **Objective:** To evaluate the quality of exposure beyond simple Gross Rating Points (GRP).
 
 * **The Findings:** While **Standard Spots** consume the majority of the budget (base load), significant investments in **Sponsorships** and **Overlays (Lower Thirds)** are observed.
 * **Strategic Implication:** The brand is actively fighting **"Ad Clutter"** (the overcrowding of ads). By investing in sponsorships, they achieve **"Content Integration"**, ensuring visibility even when viewers skip standard commercial breaks. This suggests a shift from "Interruption Marketing" to "Integration Marketing."
 
-#### 🏢 B. Vendor Concentration & Trading Strategy
+####  B. Vendor Concentration & Trading Strategy
 > **Objective:** To assess the "Buying Power" and risk distribution among media partners.
 
 * **The Findings:** The analysis reveals a high **Concentration Ratio**, adhering strictly to the **Pareto Principle (80/20 Rule)**. Approximately 80% of the budget is allocated to the top 20% of vendors (Sales Houses like ATV, FOX, TV8).
@@ -179,7 +181,7 @@ While the primary analysis focused on volume and efficiency, this "Deep Dive" mo
     * **Pros:** High consolidation yields massive **"Negotiation Leverage"**, driving down the Cost Per Point (CPP) through volume-based deal structures (Upfront Agreements).
     * **Cons:** High dependency on a few networks risks **"Audience Saturation"** (hitting the same people repeatedly) and limits unique reach extension.
 
-#### ⏱️ C. Duration Strategy (Storytelling vs. Tactical)
+####  C. Duration Strategy (Storytelling vs. Tactical)
 > **Objective:** To determine the balance between "Brand Building" (Long-term) and "Sales Activation" (Short-term).
 
 * **The Findings:** The duration histogram exhibits a **"Bimodal Distribution"** (two distinct peaks):
@@ -187,7 +189,7 @@ While the primary analysis focused on volume and efficiency, this "Deep Dive" mo
     2.  **Long Form (45+ seconds):** Focused on **"Emotional Storytelling"** and Brand Equity construction.
 * **Strategic Implication:** The brand employs a **"Hybrid Narrative Architecture."** They use long copies to establish the emotional hook and short copies to reinforce **"Mental Availability"** efficiently throughout the week.
 
-#### 🌡️ D. Category Dynamics & Macro-Seasonality
+####  D. Category Dynamics & Macro-Seasonality
 > **Objective:** To correlate spending patterns with consumption occasions and environmental factors.
 
 * **The Findings:**
@@ -208,7 +210,7 @@ While the primary analysis focused on volume and efficiency, this "Deep Dive" mo
 
 ---
 
-*Generated via Python Analysis Module `F_Deep_Dive_Analytics`.*
+
 
 
 *Analysis generated via Python (Pandas/Matplotlib) based on 2020 Mainstream Media Logs.*
