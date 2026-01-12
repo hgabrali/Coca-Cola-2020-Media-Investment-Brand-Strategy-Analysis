@@ -31,7 +31,7 @@
 
 This project presents a longitudinal analysis of **Coca-Cola's media spending landscape** relative to its competitors throughout the fiscal year 2020. Utilizing a high-dimensional dataset (approximately 200MB) encompassing granular media investment logs, this study applies advanced Data Science techniques to decode advertising strategies during a "Black Swan" event—the COVID-19 pandemic.
 
-The primary objective is to evaluate the **Allocative Efficiency** of media budgets across various channels (Linear Television, Digital, Out-of-Home, Cinema, Radio) and to reconstruct the brand's strategic response to shifting consumer behaviors. By leveraging **Time Series Forecasting**, **Cost Efficiency Analysis**, **Competitive Benchmarking** (Share of Voice), and **Adstock Modeling principles**, this project offers actionable insights into maximizing **Return on Ad Spend (ROAS)** and optimizing **Gross Rating Points (GRP)**.
+The primary objective is to evaluate the **Allocative Efficiency** of media budgets across various channels (Linear Television, Out-of-Home, Cinema, Radio) and to reconstruct the brand's strategic response to shifting consumer behaviors. By leveraging **Time Series Forecasting**, **Cost Efficiency Analysis**, **Competitive Benchmarking** (Share of Voice), and **Adstock Modeling principles**, this project offers actionable insights into maximizing **Return on Ad Spend (ROAS)** and optimizing **Gross Rating Points (GRP)**.
 
 ---
 
