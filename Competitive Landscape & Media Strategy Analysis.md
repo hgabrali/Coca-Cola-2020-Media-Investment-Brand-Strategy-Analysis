@@ -31,7 +31,7 @@ The 2020 fiscal year analysis reveals a highly consolidated market structure whe
 #### 🎨 B. Media Mix & Channel Allocation Strategy
 > **Objective:** To decode the tactical "Where" and "How" of competitor investments.
 
-<img width="894" height="491" alt="image" src="https://github.com/user-attachments/assets/bb92a163-bb10-40fb-a8c6-63c19d294ac2" 
+<img width="894" height="491" alt="image" src="https://github.com/user-attachments/assets/bb92a163-bb10-40fb-a8c6-63c19d294ac2"/> 
 
 * **Linear TV Dependency:** The 100% Stacked Bar visualization confirms that the Turkish beverage market is historically **TV-Centric**. Across almost all top 10 brands, Television accounts for the lion's share (>85%) of the budget. This validates the industry heuristic that TV is the primary driver for **Mass Reach** in FMCG (Fast-Moving Consumer Goods).
 * **Divergent Strategies:**
