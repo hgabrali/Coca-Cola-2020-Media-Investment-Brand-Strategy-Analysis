@@ -194,6 +194,17 @@ The dataset utilized in this project is **proprietary** and was provided under a
 > **Notice regarding data integrity and privacy protocols:**
 > To protect the **proprietary information** (confidential assets) of the **data provider** (originating entity), all **financial figures** (monetary metrics) and **volume metrics** (quantitative measurements) have been **scaled** (normalized) or **obfuscated** (anonymized). While the **statistical relationships** (correlations) and **trends** (longitudinal patterns) remain **intact** (preserved) for **analysis purposes** (diagnostic evaluation), the **absolute values** (raw magnitudes) do not represent actual **business results** (commercial outcomes).
 
+
+---
+### ⚠️ Disclaimer
+This project is an independent econometric study for educational purposes only. 
+It is **not** officially affiliated with, endorsed by, or connected to The Coca-Cola Company or Coca-Cola İçecek (CCI).
+The forecasts presented here do not constitute financial advice.
+
+## 📊 Data Sources & References
+This econometric analysis is based on publicly available financial reports and market data regarding:
+* **Target Entity:** [Coca-Cola İçecek (CCI)](https://www.cci.com.tr/en)
+* **Market:** Turkey FMCG Sector (2020-2021)
 ---
 *Author: [Hande Gabrali-Knobloch]*
 *Methodology verified by: Professor of Marketing Analytics*
