@@ -6,7 +6,7 @@
 
 **Date:** January 12, 2026  
 **Subject:** FX Volatility Impact on Share of Voice (SOV) & Competitive Strategy  
-**Status:** `Strategic Analysis`  
+**Status:** `Strategic Analysis`   
 **Classification:** Market Intelligence / Econometric Forecasting
 
 ---
