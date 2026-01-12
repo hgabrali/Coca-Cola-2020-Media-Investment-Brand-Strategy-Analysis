@@ -52,4 +52,22 @@ The analysis of the dataset yields four critical conclusions regarding the 2020 
 * **Interpretation:** The orange dashed line illustrates the trajectory of Q1 2021 spending if current trends persist. Due to high spending at the end of the year (Q4), the model predicts an **upward opening** for the beginning of 2021.
 
 
+# 🔮 Future Outlook: Moving Beyond Univariate Forecasting
+## A Roadmap for "Next-Generation" Predictive Media Modeling
 
+While the current *Prophet* and *Linear Regression* models provide a solid baseline based on historical run-rates, a truly robust Strategic Forecast requires integrating **Multivariate Regressors**. To elevate the prediction accuracy from "Descriptive" to "Prescriptive," the following dimensions should be integrated into the next phase of the project:
+
+| **Strategic Dimension** | **Objective** | **Data Science Implementation Strategy** |
+| :--- | :--- | :--- |
+| **1. Econometric Integration** | **Inflation-Proofing** | Incorporate external datasets such as **CPI (Consumer Price Index)** and **FX Rates (USD/TRY)** as exogenous regressors in SARIMAX models. This allows the model to differentiate between organic budget growth and forced inflationary spending. |
+| **2. Game Theory Modeling** | **Competitor Response** | Move from static forecasting to dynamic **"War Gaming"**. Analyze the *Cross-Elasticity* of competitor Spend vs. our Share of Voice. Predict required defensive spending thresholds based on competitor GRP momentum signals. |
+| **3. Inventory Futures** | **Scarcity Pricing** | Build a **"Demand-Supply"** index for TV inventory. Quantify the *Cost-Per-GRP (CPP)* volatility during peak seasons (Q4) to forecast not just the budget needed, but the actual **Purchasing Power** of that budget. |
+| **4. Synergy Attribution** | **Mix Optimization** | Utilize **Media Mix Modeling (MMM)** with Ridge Regression to quantify the interaction effects between channels (e.g., *Does increasing TV spend improve OOH recall?*). Forecast the optimal split rather than just the total volume. |
+
+### 🛠️ Proposed Technical Architecture for Phase 2
+* **Model:** Migration from `Prophet` to **`Bayesian Structural Time Series (BSTS)`**.
+* **Feature Set:** Historical Spend + Seasonality + *Macro Indicators* + *Competitor SOV*.
+* **Output:** A "Scenario-Based" forecast (Best Case / Worst Case / Inflation-Adjusted Case).
+
+---
+*Roadmap designed by analyzing data gaps in the current 2020 Media Log dataset.*
