@@ -77,7 +77,7 @@ To transition from *Descriptive Analytics* to *Prescriptive Strategic Forecastin
 
 | **Data Layer** | **Required Dataset** | **Purpose in Modeling** | **Target Analysis** |
 | :--- | :--- | :--- | :--- |
-| **1. Macro-Economic** | `USD_TRY_Exchange_Rate.csv` | To deflate media costs and calculate **"Purchasing Power Parity"** of the budget. | **Econometric Integration** (Inflation-Proofing) |
+| **1. Macro-Economic** | [`USD_TRY_Exchange_Rate.csv`](https://www.tcmb.gov.tr/kurlar/kur2020_tr.html) | To deflate media costs and calculate **"Purchasing Power Parity"** of the budget. | **Econometric Integration** (Inflation-Proofing) |
 | **2. Consumer Behavior** | `Sales_Volume_Weekly.csv` OR `Google_Trends_Index.csv` | To serve as the **Dependent Variable (Y)**. Essential for measuring ROI and channel synergy. | **Synergy Attribution** & **MMM (Marketing Mix Modeling)** |
 | **3. Competitive Intel** | `Category_Total_GRP.csv` | To calculate the dynamic **Share of Voice (SOV)** and detect competitor aggression levels. | **Game Theory Modeling** (Competitor Response) |
 | **4. Inventory Supply** | `TV_Rate_Cards_2020.csv` | To establish a baseline price and identify **"Demand-Pull Inflation"** (Scarcity Pricing). | **Inventory Futures** (Price Forecasting) |
