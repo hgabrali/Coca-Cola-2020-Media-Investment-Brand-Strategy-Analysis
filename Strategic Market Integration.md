@@ -1,4 +1,4 @@
-<img width="525" height="171" alt="image" src="https://github.com/user-attachments/assets/854014d5-8e15-4eae-99c8-0b58f15a0b93" 
+<img width="525" height="171" alt="image" src="https://github.com/user-attachments/assets/854014d5-8e15-4eae-99c8-0b58f15a0b93">
 
 
 # Strategic Market Integration: Econometric Analysis of FMCG Media Investment
