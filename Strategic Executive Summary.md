@@ -93,10 +93,9 @@ To move beyond traditional GRP metrics, this module explores the **Cross-Channel
 
 ### 📉 Visualization: The "Second Screen" Phenomenon
 
-<img width="1175" height="461" alt="image" src="https://github.com/user-attachments/assets/87fd44e4-c8d5-49d5-8990-a531edcd9f59" />
+<img width="1249" height="494" alt="image" src="https://github.com/user-attachments/assets/e65e100e-56c2-469b-8dbe-2075050af620" />
 
 
-*(Note: Please upload the generated graph to your repo and insert the link here)*
 
 ### 🔍 Technical Interpretation
 
