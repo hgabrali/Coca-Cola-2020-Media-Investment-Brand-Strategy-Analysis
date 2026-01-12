@@ -4,7 +4,7 @@
 # Strategic Media Spending & Brand Resilience Analysis (2020)
 ## A Data Science Approach to Marketing Mix Modeling & Crisis Management in the Turkish Market
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange)
 ![Prophet](https://img.shields.io/badge/Facebook_Prophet-Time_Series-red)
