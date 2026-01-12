@@ -82,4 +82,12 @@ The dataset utilized in this project is **proprietary** and was provided under a
 * **Replication:** If you wish to run this project locally, you must provide your own dataset that adheres to the structure specified in the `docs/data_schema.md` file.
 
 ---
+
+## Data Obfuscation & Scaling (Veri Maskeleme ve Ölçeklendirme)
+
+> **To protect the proprietary information (mülkiyet hakları saklı bilgiler) of the data provider (veri sağlayıcı), all financial figures (finansal rakamlar) and volume metrics (hacim metrikleri) have been scaled (ölçeklendirilmiş) or obfuscated (maskelenmiş/gizlenmiş). While the statistical relationships (istatistiksel ilişkiler) and trends (eğilimler) remain intact (bozulmadan korunmuş) for analysis purposes (analiz amaçları), the absolute values (mutlak değerler) do not represent actual business results (gerçek iş sonuçları).**
+
+---
+
+---
 *Disclaimer: This project is for educational and portfolio purposes. The analysis is based on a sample dataset and utilizes Data Science methodologies to derive strategic marketing insights.*
