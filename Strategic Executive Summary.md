@@ -1,4 +1,8 @@
-# 📊 1. Strategic Executive Summary (Key Insights)
+<img width="525" height="171" alt="image" src="https://github.com/user-attachments/assets/854014d5-8e15-4eae-99c8-0b58f15a0b93">
+
+
+
+#  1. Strategic Executive Summary (Key Insights)
 
 The analysis of the dataset yields four critical conclusions regarding the 2020 media landscape:
 
@@ -9,7 +13,7 @@ The analysis of the dataset yields four critical conclusions regarding the 2020 
 
 ---
 
-# 📈 2. Analysis Outputs & Visualizations
+#  2. Analysis Outputs & Visualizations
 
 ### A. Media Mix Optimization
 
@@ -64,13 +68,13 @@ While the current *Prophet* and *Linear Regression* models provide a solid basel
 | **3. Inventory Futures** | **Scarcity Pricing** | Build a **"Demand-Supply"** index for TV inventory. Quantify the *Cost-Per-GRP (CPP)* volatility during peak seasons (Q4) to forecast not just the budget needed, but the actual **Purchasing Power** of that budget. |
 | **4. Synergy Attribution** | **Mix Optimization** | Utilize **Media Mix Modeling (MMM)** with Ridge Regression to quantify the interaction effects between channels (e.g., *Does increasing TV spend improve OOH recall?*). Forecast the optimal split rather than just the total volume. |
 
-### 🛠️ Proposed Technical Architecture for Phase 2
+###  Proposed Technical Architecture for Phase 2
 * **Model:** Migration from `Prophet` to **`Bayesian Structural Time Series (BSTS)`**.
 * **Feature Set:** Historical Spend + Seasonality + *Macro Indicators* + *Competitor SOV*.
 * **Output:** A "Scenario-Based" forecast (Best Case / Worst Case / Inflation-Adjusted Case).
 
 
-# 🛠️ Requirements for Phase 2: Advanced Predictive Modeling
+#  Requirements for Phase 2: Advanced Predictive Modeling
 ## Data Architecture & Integration Roadmap
 
 To transition from *Descriptive Analytics* to *Prescriptive Strategic Forecasting*, the current dataset must be enriched with the following exogenous variables. This integration enables the measurement of "Real Impact" vs. "Nominal Spending."
@@ -83,7 +87,7 @@ To transition from *Descriptive Analytics* to *Prescriptive Strategic Forecastin
 | **4. Inventory Supply** | `TV_Rate_Cards_2020.csv` | To establish a baseline price and identify **"Demand-Pull Inflation"** (Scarcity Pricing). | **Inventory Futures** (Price Forecasting) |
 
 
-# 💸 5. Econometric Integration & Strategic Forecasting
+#  5. Econometric Integration & Strategic Forecasting
 ## Inflation-Proofing the Media Budget
 
 ![Python](https://img.shields.io/badge/Python-Scikit_Learn-yellow)
@@ -91,7 +95,7 @@ To transition from *Descriptive Analytics* to *Prescriptive Strategic Forecastin
 
 To mitigate the risk of **Hyper-Inflation** in the Turkish market, this module integrates external macro-economic indicators (USD/TRY Exchange Rate) to distinguish between "Nominal Spending" and "Real Purchasing Power."
 
-## 📉 Visualization: The "Hidden Inflation" Effect
+##  Visualization: The "Hidden Inflation" Effect
 
 
 <img width="933" height="443" alt="image" src="https://github.com/user-attachments/assets/c515c1c1-d593-4344-9b8a-14c3ebecda96" />
