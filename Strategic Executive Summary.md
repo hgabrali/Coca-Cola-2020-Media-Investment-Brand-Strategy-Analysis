@@ -69,5 +69,25 @@ While the current *Prophet* and *Linear Regression* models provide a solid basel
 * **Feature Set:** Historical Spend + Seasonality + *Macro Indicators* + *Competitor SOV*.
 * **Output:** A "Scenario-Based" forecast (Best Case / Worst Case / Inflation-Adjusted Case).
 
+
+# 🛠️ Requirements for Phase 2: Advanced Predictive Modeling
+## Data Architecture & Integration Roadmap
+
+To transition from *Descriptive Analytics* to *Prescriptive Strategic Forecasting*, the current dataset must be enriched with the following exogenous variables. This integration enables the measurement of "Real Impact" vs. "Nominal Spending."
+
+| **Data Layer** | **Required Dataset** | **Purpose in Modeling** | **Target Analysis** |
+| :--- | :--- | :--- | :--- |
+| **1. Macro-Economic** | `USD_TRY_Exchange_Rate.csv` | To deflate media costs and calculate **"Purchasing Power Parity"** of the budget. | **Econometric Integration** (Inflation-Proofing) |
+| **2. Consumer Behavior** | `Sales_Volume_Weekly.csv` OR `Google_Trends_Index.csv` | To serve as the **Dependent Variable (Y)**. Essential for measuring ROI and channel synergy. | **Synergy Attribution** & **MMM (Marketing Mix Modeling)** |
+| **3. Competitive Intel** | `Category_Total_GRP.csv` | To calculate the dynamic **Share of Voice (SOV)** and detect competitor aggression levels. | **Game Theory Modeling** (Competitor Response) |
+| **4. Inventory Supply** | `TV_Rate_Cards_2020.csv` | To establish a baseline price and identify **"Demand-Pull Inflation"** (Scarcity Pricing). | **Inventory Futures** (Price Forecasting) |
+
+### 🧬 Proposed Feature Engineering
+* **Interaction Terms:** `TV_Spend * Digital_Search_Volume` (To measure synergy).
+* **Lagged Variables:** `Competitor_Spend_t-1` (To measure reaction time).
+* **Seasonality Indices:** `Temperature_Index` (For correlating soft drink consumption with weather).
+
+---
+*Note: This roadmap assumes the implementation of a Multivariate Regression or Bayesian Structural Time Series (BSTS) model in the next iteration.*
 ---
 *Roadmap designed by analyzing data gaps in the current 2020 Media Log dataset.*
